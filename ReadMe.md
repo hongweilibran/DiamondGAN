@@ -1,2 +1,2 @@
-# DiamondGAN for synthesis of the missing modaliy given multiple inputs
+# *DiamondGAN* for synthesis of the missing modaliy given multiple inputs
 
