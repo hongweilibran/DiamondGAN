@@ -21,16 +21,6 @@ G_S2T_model.hdf5
 ./synthetic_images/T_111
 ```
 
-#### Comment row 242:
-```
-#self.train(…
-```
-
-#### Uncomment row 243:
-```
-self.load_model_and_generate_synthetic_images()
-```
-
 #### Then run:
 ```
 python test.py
